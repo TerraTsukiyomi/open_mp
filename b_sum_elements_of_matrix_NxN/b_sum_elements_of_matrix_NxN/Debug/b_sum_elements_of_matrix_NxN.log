@@ -1,0 +1,3 @@
+﻿  example2.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+  b_sum_elements_of_matrix_NxN.vcxproj -> D:\My_university 4.2\TRSPO\open_mp\b_sum_elements_of_matrix_NxN\Debug\b_sum_elements_of_matrix_NxN.exe

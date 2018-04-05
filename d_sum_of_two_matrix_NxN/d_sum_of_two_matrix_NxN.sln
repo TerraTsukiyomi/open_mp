@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "d_sum_of_two_matrix_NxN", "d_sum_of_two_matrix_NxN\d_sum_of_two_matrix_NxN.vcxproj", "{600C0668-E9EA-477A-8535-767D0D74086F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{600C0668-E9EA-477A-8535-767D0D74086F}.Debug|x64.ActiveCfg = Debug|x64
+		{600C0668-E9EA-477A-8535-767D0D74086F}.Debug|x64.Build.0 = Debug|x64
+		{600C0668-E9EA-477A-8535-767D0D74086F}.Debug|x86.ActiveCfg = Debug|Win32
+		{600C0668-E9EA-477A-8535-767D0D74086F}.Debug|x86.Build.0 = Debug|Win32
+		{600C0668-E9EA-477A-8535-767D0D74086F}.Release|x64.ActiveCfg = Release|x64
+		{600C0668-E9EA-477A-8535-767D0D74086F}.Release|x64.Build.0 = Release|x64
+		{600C0668-E9EA-477A-8535-767D0D74086F}.Release|x86.ActiveCfg = Release|Win32
+		{600C0668-E9EA-477A-8535-767D0D74086F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0B211A6-0DB1-424D-BCEF-063E9A33DF53}
+	EndGlobalSection
+EndGlobal

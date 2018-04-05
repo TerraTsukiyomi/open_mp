@@ -1,0 +1,5 @@
+﻿  example5.cpp
+d:\my_university 4.2\trspo\open_mp\e_umnajenie_massivov\e_umnajenie_massivov\example5.cpp(19): warning C4101: numt: неиспользованная локальная переменная
+d:\my_university 4.2\trspo\open_mp\e_umnajenie_massivov\e_umnajenie_massivov\example5.cpp(19): warning C4101: j: неиспользованная локальная переменная
+d:\my_university 4.2\trspo\open_mp\e_umnajenie_massivov\e_umnajenie_massivov\example5.cpp(19): warning C4101: i: неиспользованная локальная переменная
+  e_umnajenie_massivov.vcxproj -> D:\My_university 4.2\TRSPO\open_mp\e_umnajenie_massivov\Debug\e_umnajenie_massivov.exe
