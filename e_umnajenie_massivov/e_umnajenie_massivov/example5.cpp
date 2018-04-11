@@ -39,9 +39,10 @@ int main() {
 
 #pragma omp section
 			{
+#pragma omp for
 				for (long i = 0; i < MATRIX_RANGE; i++)
 					for (long j = 0; j < MATRIX_RANGE; j++)
-						matrix[2][i][j] = matrix[0][i][j] * matrix[1][i][j];
+						matrix[2][i][j] += matrix[0][i][j] * matrix[1][i][j];
 				//printf("All Processors=%d Number Thread=%d All Threads=%dResult[%d %d] = %.1f\n", allp, numt, allt, i, j, f);
 			}
 		}
